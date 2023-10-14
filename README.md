@@ -1,5 +1,9 @@
 # BASADO EN:
-https://www.youtube.com/watch?v=XcgSPDK_zzU
+ - **https://www.youtube.com/watch?v=XcgSPDK_zzU**
+
+# DEL CANAL:
+ - **https://www.youtube.com/@Develoteca**
+
 
 # API Web con MySQL y PHP
 
@@ -22,3 +26,5 @@ Este proyecto es una API web simple que se conecta a una base de datos MySQL par
 ## Contribución
 
 Si deseas contribuir o realizar mejoras en este proyecto, no dudes en hacerlo
+
+**Juan Esteban Benjumea Correa: @JEBCDev**
